@@ -1,0 +1,13 @@
+<h1 class="heading">Data Visualisation with Angular and D3</h1>
+<div class="container">
+  <div id="grid">
+    <mat-card>
+      <app-grid (chartChanged)="chartChanged($event)"></app-grid>
+    </mat-card>
+  </div>
+  <div id="chart">
+    <mat-card>
+      <app-chart-manager [chartComponent]="currentChartComponent"></app-chart-manager>
+    </mat-card>
+  </div>
+</div>git remo

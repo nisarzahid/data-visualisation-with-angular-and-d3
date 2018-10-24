@@ -4,15 +4,15 @@ This project shows how to use d3.js in Angular 5. Example takes the Olympic data
  It shows the following information
  
  ## 1-Bar Chart of Top 10 countries by total medals won
- ![Bar Char of Top 10 countries by total medals won](src/app/assets/data-visualization-1.png?raw=true "Bar Char of Top 10 countries by total medals won")
+ ![Bar Char of Top 10 countries by total medals won](src/assets/data-visualization-1.png?raw=true "Bar Char of Top 10 countries by total medals won")
 
   ## 2-Bar Chart of Top 10 countries by atheletes with percentage of gold/silver/bronze medals
- ![Top 10 countries by atheletes](src/app/assets/data-visualization-2.png?raw=true "Bar Char of Top 10 countries by atheletesn")
+ ![Top 10 countries by atheletes](src/assets/data-visualization-2.png?raw=true "Bar Char of Top 10 countries by atheletesn")
 
 
   
   ## 3-Pie Chart of Top 10 for Atheletics
- ![Top 10 for Atheletics](src/app/assets/data-visualization-3.png?raw=true "Pie Chart of Top 10 for Atheletics")
+ ![Top 10 for Atheletics](src/assets/data-visualization-3.png?raw=true "Pie Chart of Top 10 for Atheletics")
 
 
 
